@@ -1,0 +1,5 @@
+
+
+
+app.js 
+- used lodash library on the forEach to convert url entry to all lowercase so matches can be found.
